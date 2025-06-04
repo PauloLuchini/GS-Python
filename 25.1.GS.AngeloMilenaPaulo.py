@@ -1,3 +1,7 @@
+# Angelo Rabello RM 564338
+# Milena Barbosa RM 558913
+# Paulo Henrique RM 561477  
+
 qtd_desastres = int(input("Informe a quantidade de desastres registrados: "))
 
 cont = 0
